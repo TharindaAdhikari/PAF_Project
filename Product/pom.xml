@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
+    <!-- comment -->
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
