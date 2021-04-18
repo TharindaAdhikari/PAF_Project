@@ -6,6 +6,8 @@
   <packaging>war</packaging>
   <build>
     <!-- comment -->
+    <!--comments2-->
+    
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
